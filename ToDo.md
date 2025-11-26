@@ -1,4 +1,3 @@
-
 ## 📝 Project To-Do List: Inventory Management System (IMS)
 
 ---
