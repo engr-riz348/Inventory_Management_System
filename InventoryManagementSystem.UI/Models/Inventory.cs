@@ -10,6 +10,7 @@ namespace InventoryManagementSystem.UI.Models
 
         public void AddProduct(Product product)
         {
+            product.ProductID = nextProductId++;
             products.Add(product);
         }
 
