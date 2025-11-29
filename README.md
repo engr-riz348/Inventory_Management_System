@@ -19,13 +19,12 @@ This is a feature-rich Inventory Management System (IMS) built with C# using Obj
 ## Running the Project
 
 1. Ensure you have .NET 9.0 or later installed on your system.
-2. Clone the repository: `git clone https://github.com/engr-riz348/Vector_Calculator.git`
-3. Navigate to the project directory: `cd Vector_Calculator/InventoryManagementSystem.UI`
-4. Build the project: `dotnet build`
-5. Run the application: `dotnet run`
+2. Navigate to the project directory: `cd InventoryManagementSystem.UI`
+3. Build the project: `dotnet build`
+4. Run the application: `dotnet run`
 
 The application will launch with a 3D-styled user interface for managing inventory.
 
 ## User Interface Access
 
-Access the user interface by running the application locally as described above. For source code and further details, visit the repository: [https://github.com/engr-riz348/Vector_Calculator.git](https://github.com/engr-riz348/Vector_Calculator.git)
+Access the user interface by running the application locally as described above.
