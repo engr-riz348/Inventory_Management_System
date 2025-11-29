@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nawzi\\Desktop\\Projects\\Vector_operation\\InventoryManagementSystem.UI\\InventoryManagementSystem.UI.csproj": {}
+    "C:\\Users\\nawzi\\Desktop\\Projects\\Inventory_Management_system\\InventoryManagementSystem.UI\\InventoryManagementSystem.UI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nawzi\\Desktop\\Projects\\Vector_operation\\InventoryManagementSystem.UI\\InventoryManagementSystem.UI.csproj": {
+    "C:\\Users\\nawzi\\Desktop\\Projects\\Inventory_Management_system\\InventoryManagementSystem.UI\\InventoryManagementSystem.UI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nawzi\\Desktop\\Projects\\Vector_operation\\InventoryManagementSystem.UI\\InventoryManagementSystem.UI.csproj",
+        "projectUniqueName": "C:\\Users\\nawzi\\Desktop\\Projects\\Inventory_Management_system\\InventoryManagementSystem.UI\\InventoryManagementSystem.UI.csproj",
         "projectName": "InventoryManagementSystem.UI",
-        "projectPath": "C:\\Users\\nawzi\\Desktop\\Projects\\Vector_operation\\InventoryManagementSystem.UI\\InventoryManagementSystem.UI.csproj",
+        "projectPath": "C:\\Users\\nawzi\\Desktop\\Projects\\Inventory_Management_system\\InventoryManagementSystem.UI\\InventoryManagementSystem.UI.csproj",
         "packagesPath": "C:\\Users\\nawzi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nawzi\\Desktop\\Projects\\Vector_operation\\InventoryManagementSystem.UI\\obj\\",
+        "outputPath": "C:\\Users\\nawzi\\Desktop\\Projects\\Inventory_Management_system\\InventoryManagementSystem.UI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

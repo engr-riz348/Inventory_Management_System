@@ -1,0 +1,5 @@
+C:\Users\nawzi\Desktop\Projects\Inventory_Management_system\InventoryManagementSystem.UI\obj\Debug\net9.0-windows\InventoryManagementSystem.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nawzi\Desktop\Projects\Inventory_Management_system\InventoryManagementSystem.UI\obj\Debug\net9.0-windows\InventoryManagementSystem.UI.AssemblyInfoInputs.cache
+C:\Users\nawzi\Desktop\Projects\Inventory_Management_system\InventoryManagementSystem.UI\obj\Debug\net9.0-windows\InventoryManagementSystem.UI.AssemblyInfo.cs
+C:\Users\nawzi\Desktop\Projects\Inventory_Management_system\InventoryManagementSystem.UI\obj\Debug\net9.0-windows\InventoryManagementSystem.UI.csproj.CoreCompileInputs.cache
+C:\Users\nawzi\Desktop\Projects\Inventory_Management_system\InventoryManagementSystem.UI\obj\Debug\net9.0-windows\InventoryManagementSystem.UI.sourcelink.json
