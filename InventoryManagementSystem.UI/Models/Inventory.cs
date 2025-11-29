@@ -5,6 +5,7 @@ namespace InventoryManagementSystem.UI.Models
 {
     public class Inventory
     {
+        private static int nextProductId = 1;
         private List<Product> products = new List<Product>();
 
         public void AddProduct(Product product)
